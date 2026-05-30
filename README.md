@@ -50,7 +50,9 @@ Backend:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-Goals for 2026
+
+
+Goals for 2026:
 Build useful open-source AI tools.
 Contribute consistently to open-source projects.
 Create business-focused automation systems.
@@ -62,7 +64,6 @@ Automation systems
 Developer tools
 Business productivity software
 Voice AI projects
-Contact
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rdxcodex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
