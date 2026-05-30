@@ -54,7 +54,7 @@ Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-Goals for 2026:
+# Goals for 2026:
 
 • Build useful open-source AI tools.
 
@@ -68,7 +68,7 @@ Goals for 2026:
 
 
 
-Open to Collaborate On:
+# Open to Collaborate On:
 
 •Open-source AI projects
 
