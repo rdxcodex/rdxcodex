@@ -54,16 +54,28 @@ Tools:
 
 Goals for 2026:
 Build useful open-source AI tools.
+
 Contribute consistently to open-source projects.
+
 Create business-focused automation systems.
+
 Help small businesses adopt AI solutions.
+
 Grow projects with real users and contributors.
-Open to Collaborate On
+
+
+
+Open to Collaborate On:
 Open-source AI projects
+
 Automation systems
+
 Developer tools
+
 Business productivity software
+
 Voice AI projects
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rdxcodex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
